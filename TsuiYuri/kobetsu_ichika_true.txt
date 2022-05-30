@@ -68,7 +68,7 @@ aa050017
 bb050011
 "Uh... ¿cómo podemos hacer eso? No se me ocurre nada."
 aa050018
-"Veamos. Por ejemplo, debes demostrarle a mamá que puedes hacer tus cosas solas, sin mi ayuda."
+"Veamos. Por ejemplo, debes demostrarle a mamá que puedes hacer tus cosas sola, sin mi ayuda."
 bb050012
 "Eh, ¿entonces tengo que mostrarle que puedo ser independiente?"
 aa050019
@@ -86,7 +86,7 @@ bb030201
 aa050022
 "Esa es mi chica."
 bb050016
-"Je, je. ¡Acaríciame más! ¡Amo que me acaricies!"
+"Je, je. ¡Acaríciame más! ¡Me encanta que me acaricies!"
 La brillante sonrisa de Futaba me llenaba de alegría, y por ello sonreí mientras le acariciaba la cabeza.
 aa050023
 "Oh, ¿puedes prometerme una cosa más?"
@@ -120,7 +120,7 @@ bb050023
 aa030102
 "De acuerdo."
 bb050024
-"Con eso hecho... ¡¿qué te parece uno más?!"
+"Con eso listo... ¡¿qué te parece uno más?!"
 aa040106
 "¿Hm?"
 bb050025
@@ -209,7 +209,7 @@ bb050038
 aa050040
 "No tienes que estar tan apurada, aún tenemos tiempo."
 bb050039
-"¡Oh! ¡Olvidé mi uniforme de gimnasia! ¡Voy a buscarlo, por favor no te vayas!"
+"¡Ah! ¡Olvidé mi uniforme de gimnasia! ¡Voy a buscarlo, por favor no te vayas!"
 aa030034
 "Está bien, está bien."
 Futaba corrió tan rápido que esperaba que tropezara y cayera, pero por suerte eso no pasó.
@@ -245,7 +245,7 @@ kk050002
 "Buenos días. Mmmm, así que no llegas tarde si vienes con tu hermana."
 bb050044
 "Gulp."
-Futaba se congeló. Habiéndome dado cuenta de algo sospechoso, pregunté...
+Futaba se congeló. Al haberme dado cuenta de algo sospechoso, pregunté...
 aa050044
 "¿Qué quieres decir?"
 kk050003
@@ -318,7 +318,7 @@ cc050002
 aa050056
 "Simplemente dejé de intentar ser alguien que no era."
 cc050003
-"¿Ohhh?"
+"¿Oooh?"
 aa050057
 "¿Y esa sonrisa?"
 cc050004
@@ -463,7 +463,7 @@ aa050079
 Nuestra nueva promesa calmó mis pensamientos conflictivos, e hizo que me diera cuenta de que estaba ayudando a Futaba a ser autosuficiente.
 Todavía no podía atarse el cabello, pero al menos podía despertarse sola. El mayor problema, era... su tarea.
 bb050063
-"¡Ahhh! Me rindo. No importa cuánto me esfuerce, ¡no lo entiendo!"
+"¡Aaaah! Me rindo. No importa cuánto me esfuerce, ¡no lo entiendo!"
 No era la estudiante más brillante, pero se esforzaba, y cuando no lo conseguía, esta era su forma de desahogarse.
 bb050064
 "¡Ya no quiero, ya no quiero, ya no quiero! ¡Suficiente tarea por hoy!"
@@ -476,7 +476,7 @@ bb050065
 aa050080
 "Oye, Futaba, tomémonos un descanso para un bocadillo."
 bb050066
-"¡Ooh, ¿qué tipo de bocadillo?!"
+"Ooh, ¡¿qué tipo de bocadillo?!"
 aa050081
 "Pudín."
 bb050067
@@ -660,7 +660,7 @@ aa050110
 "Creo que estará bien con solo mantequilla y miel."
 bb050100
 "La última vez que preparaste panqueques, los hiciste como un pastel, ¡sabían tan ricos que quiero hacer lo mismo para ti!"
-Ahh, cierto, un día quiso comer pastel, pero como no tenía los ingredientes adecuados, terminé haciendo panqueques.
+Ah, cierto, un día quiso comer pastel, pero como no tenía los ingredientes adecuados, terminé haciendo panqueques.
 bb050101
 "¡Esos panqueques estaban exquisitos! Como si fueran de un restaurante de lujo."
 aa050111
@@ -681,7 +681,7 @@ bb050105
 "¡Terminé!"
 Futaba alzó el tazón como si fuera un trofeo y caminaba alegremente hacia mí con un plato lleno de panqueques cuando...
 bb050106
-"¡Ahh!"
+"¡Ah!"
 aa050113
 "¿Qué?"
 Futaba desapareció en un abrir y cerrar de ojos, tras ello, un sonido metálico sonó y un tonto "Auchii" resonó.
@@ -721,7 +721,7 @@ bb050113
 "¿Mmmm? ¿Pasa algo, Ichika? Estás toda roja."
 aa050121
 "N-No es nada."
-Pensaba que Futaba podía leer lo que pensaba, y apenada aparté la mirada rápidamente. Ella inclinó la cabeza con confusión y comenzó a lamer la crema de sus dedos.
+Pensaba que Futaba podía leer lo que pensaba, y apenada aparté la mirada rápidamente. Ella inclinó la cabeza con confusión y comenzó a lamerse la crema de los dedos.
 bb050114
 "Aww. De veras quería hacer unos ricos panqueques... Incluso la crema salió perfecta, ¿por qué tuvo que acabar así?"
 aa050122
